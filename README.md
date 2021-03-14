@@ -21,5 +21,9 @@ Semana 4
 + 25.02.2021: Estadisticas descriptivas
 
 Semana 5
-+ 
++ 03.03.2021: Solución laboratorio 3
++ 04.03.2021: Continuación solución lab 3
 
+Semana 6
++ 10.03.2021: Resumen gráfico de un conjunto de datos
++ 11.03.2021: Histogramas, barplot y pie(cuadro1.csv)
