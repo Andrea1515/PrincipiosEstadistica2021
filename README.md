@@ -27,3 +27,23 @@ Semana 5
 Semana 6
 + 10.03.2021: Resumen gráfico de un conjunto de datos
 + 11.03.2021: Histogramas, barplot y pie(cuadro1.csv)
+
+Semana 7
++ 17.03.2021: Correlación entre dos variables
++ 18.03.2021:Correlación ejercicios
+
+Semana 8 
++ 24.03.2021: Correlación
++ 25.03.2021: 
+
+Semana 9
++ 14.04.2021: Análisis de regresión 
++ 15.04.2021: Asincrona
+
+Semana 10
++ 21.04.2021: Analisis de regresión
++ 22.04.2021: Ejercicios datos canopy
+
+Semana 11
++ 28.04.2021: Normalidad y homogeneidad de varianzas
++ 29.04.2021:
