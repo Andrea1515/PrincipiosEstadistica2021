@@ -47,3 +47,6 @@ Semana 10
 Semana 11
 + 28.04.2021: Normalidad y homogeneidad de varianzas
 + 29.04.2021:
+
+Semana 12
++ 12.05.21: Prueba T de una muestra
