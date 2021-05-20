@@ -50,3 +50,8 @@ Semana 11
 
 Semana 12
 + 12.05.21: Prueba T de una muestra
++ 13.05.21: Prueba T de muestras independientes
+
+Semana 13
++ 19.05.21: Prueba T de muestras dependientes
++ 20.05.21: Fin de curso
